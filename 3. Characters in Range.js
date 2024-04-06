@@ -20,6 +20,6 @@ function charactersInRange(str1, str2) {
     }
     console.log(res);
 }
-//charactersInRange('a','d');
+charactersInRange('a','d');
 charactersInRange('#',':');
 //charactersInRange('C', '#');
